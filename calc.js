@@ -1,5 +1,5 @@
-/* versión: restar */
+/* versión: multiplicar */
 function calcular(a, b) {
-  return a - b;
+  return a * b;
 }
 module.exports = { calcular };
