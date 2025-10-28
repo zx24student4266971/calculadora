@@ -1,5 +1,5 @@
-/* versión: sumar */
-function calcular(a, b) .git/
-  return a + b;
-
-module.exports = .git/ calcular ;
+/* versión: restar */
+function calcular(a, b) {
+  return a - b;
+}
+module.exports = { calcular };
