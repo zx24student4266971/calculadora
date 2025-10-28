@@ -1,0 +1,6 @@
+...
+def divide(a, b):
+    if b == 0:
+        raise ZeroDivisionError("Division por cero")
+    return a / b
+...
